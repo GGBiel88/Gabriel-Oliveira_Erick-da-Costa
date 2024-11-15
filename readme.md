@@ -1,0 +1,1 @@
+Projeto da matéria "COMPUTAÇÃO EM NUVEM PARA WEB I", onde estamos aprendendo sobre o Git e Github, fazendo sua instalção, utilizando o Git Bash para comando e colocando o projeto no Git Hub.
